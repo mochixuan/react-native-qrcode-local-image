@@ -29,12 +29,12 @@
     "email": "42550564@qq.com"
   },
   "bugs": {
-    "url": "https://github.com/remobile/react-native-qrcode-local-image/issues"
+    "url": "https://github.com/mochixuan/react-native-qrcode-local-image.gitissues"
   },
   "bundleDependencies": false,
   "deprecated": false,
   "description": "A local qrcode image parse for react-native, support for ios and android",
-  "homepage": "https://github.com/remobile/react-native-qrcode-local-image",
+  "homepage": "https://github.com/mochixuan/react-native-qrcode-local-image.git",
   "keywords": [
     "react-native",
     "react-component",
@@ -47,11 +47,11 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "@remobile/react-native-qrcode-local-image",
+  "name": "react-native-qrcode-local-image",
   "qrcode-local-imagecription": "A local qrcode image parse for react-native",
   "repository": {
     "type": "git",
-    "url": "git://github.com/remobile/react-native-qrcode-local-image.git"
+    "url": "git@github.com:mochixuan/react-native-qrcode-local-image.git"
   },
   "version": "1.0.4"
 }
