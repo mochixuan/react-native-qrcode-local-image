@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wangxuan/Downloads/GoldenWallet/Libs/react-native-qrcode-local-image/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/wangxuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4e7777df6d46965971f2cf6d1fe40d94/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/wangxuan/Downloads/GoldenWallet/Libs/react-native-qrcode-local-image/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/wangxuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4e7777df6d46965971f2cf6d1fe40d94/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
